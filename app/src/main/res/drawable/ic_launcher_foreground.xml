@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background fill -->
+    <path
+        android:fillColor="#1A6EBF"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z" />
+
+    <!-- Speech bubble -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="
+            M38,32 L70,32
+            Q78,32 78,40
+            L78,62
+            Q78,70 70,70
+            L46,70
+            L34,80
+            L38,70
+            Q30,70 30,62
+            L30,40
+            Q30,32 38,32 Z" />
+
+    <!-- Arrow stem -->
+    <path
+        android:fillColor="#1A6EBF"
+        android:pathData="M51,40 L57,40 L57,56 L51,56 Z" />
+
+    <!-- Arrow chevron -->
+    <path
+        android:fillColor="#1A6EBF"
+        android:pathData="M45,54 L54,64 L63,54 Z" />
+
+</vector>

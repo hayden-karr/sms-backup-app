@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+local.properties
+
+# Generated
+.kotlin/
+captures/
+
+# Keystore / signing
+*.jks
+*.keystore
+*.p12
+release/
+release.jks
+
+# Nix
+.direnv/
+result
+result-*
+
+# OS
+.DS_Store
+Thumbs.db
+kls_database.db

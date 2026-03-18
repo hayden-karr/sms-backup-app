@@ -1,0 +1,2 @@
+-keep class com.heideen.smsbackup.model.** { *; }
+-keepattributes SourceFile,LineNumberTable
